@@ -1,0 +1,6 @@
+pynput
+cryptography
+pywin32; platform_system == "Windows"
+
+# Linux users must install xdotool manually:
+# sudo apt install xdotool
